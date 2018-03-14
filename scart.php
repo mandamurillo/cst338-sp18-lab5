@@ -24,7 +24,7 @@
 <html>
     <style>
         body {
-           background-image: url("http://www.stickpng.com/assets/images/584294a4a6515b1e0ad75ace.png");
+           background-image: url("http://resources.mynewsdesk.com/image/upload/c_limit,dpr_1.0,f_auto,h_700,q_auto,w_670/l8dpckmldvgnca7sgkrq.jpg");
            background-size: cover;
         }
     </style>
@@ -45,7 +45,7 @@
                 <nav class='navbar navbar-default - navbar-fixed-top'>
                     <div class='container-fluid'>
                         <div class='navbar-header'>
-                            <a class='navbar-brand' href='#'>Gucci Store</a>
+                            <a class='navbar-brand' href='#'>Wallie World</a>
                         </div>
                         <ul class='nav navbar-nav'>
                             <li><a href='index.php'>Home</a></li>
